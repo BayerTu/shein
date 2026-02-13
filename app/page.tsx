@@ -2,6 +2,7 @@
 import { HyperText } from "@/components/ui/hyper-text";
 import MeuComponente from "@/components/texto"
 import Texto from "@/components/texto";
+import Link from "next/link";
 
 
 export default function Home() {
@@ -14,7 +15,7 @@ export default function Home() {
         </section>
 
         <section className="flex">
-          <a href="https://www.youtube.com/"> <h1 className="text-black hover:text-red-500 font-serif">CLIQUE</h1></a>
+          <a href="/secondpage"> <h1 className="text-black hover:text-red-500 font-serif">CLIQUE</h1></a>
         </section>
 
       </main>
