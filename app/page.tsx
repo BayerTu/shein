@@ -25,6 +25,147 @@ export default function Home() {
           >
             Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
           </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
+             <HyperText
+            className="px-20 text-xl font-mono"
+            duration={10000}
+            characterSet={[
+            
+              '#', '@', '%', '&', '*',
+              'Ω', 'Ψ', 'Δ', 'λ',
+              'ø', 'ß', '¿', '¡',
+              '☠', '☢', '✖'
+            ]}
+          >
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
+          </HyperText>
+
                     
         </section>
 
