@@ -12,7 +12,8 @@ const texts = [
 export default function SecondPage() {
   const confettiRef = useRef<ConfettiRef>(null)
   return (
-    <main className="flex min-h-screen items-center justify-center bg-pink-300 gap-2 flex-col">
+    <main className="relative flex min-h-screen w-full items-center justify-center bg-pink-300 flex-col">
+
       <Confetti
         ref={confettiRef}
         className="absolute top-0 left-0 z-0 size-full"
