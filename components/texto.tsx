@@ -4,7 +4,7 @@ export default function Texto() {
   return (
     <div>
        <HyperText
-            className="px-20 text-xl font-mono"
+            className="px-20 text-xl"
             duration={10000}
             characterSet={[
             
@@ -154,7 +154,7 @@ export default function Texto() {
               '☠', '☢', '✖'
             ]}
           >
-            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com (CLIQUE EM MIM )arinho. Espero que goste!
+            Olá, Mavi! Seja bem-vindo ao seu site. É bem simples, mas foi feito com bastante intenção e carinho. Espero que goste!
           </HyperText>
     </div>
   )

@@ -6,11 +6,15 @@ import Texto from "@/components/texto";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center text-green-500 font-sans bg-black">
+    <div className="flex min-h-screen items-center justify-center text-green-500 font-mono bg-black">
       <main className="flex flex-col ">
-        
+
         <section className="text-xl">
           <Texto />
+        </section>
+
+        <section className="flex">
+          <a href="https://www.youtube.com/"> <h1 className="text-black hover:text-red-500 font-serif">CLIQUE</h1></a>
         </section>
 
       </main>
